@@ -1,7 +1,7 @@
 name: Atlantis
 favicon: null
-layout_spectrum: 0.9441126564051956
-typography_spectrum: 0.8698225407861173
+layout_spectrum: 1
+typography_spectrum: 0.9154
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.3381200486328453
-  lightness: 0.7002724457997829
-  saturation: 0.15734265698119998
-  rhythmicContrast: 0.1480069679673761
+    - '#154970'
+    - '#388caf'
+    - '#257395'
+    - '#42a6b3'
+    - '#65c7d2'
+  brandStrength: 0.25
+  lightness: 0.25
+  saturation: 0.125
+  rhythmicContrast: 0.25
 purpose: []
